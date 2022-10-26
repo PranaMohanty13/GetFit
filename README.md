@@ -10,21 +10,23 @@
 
 ### Description
 
-[Log in and log out
-Tracking your run 
-Your friends can see your workout report and 
-types of workout
-A reward system like a leaderboard, scoreboard, streak, etc.]
+GetFit would be used amongst friends and peers to track runs, compete against challenges and secure position in the closed leadership board.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category: Fitness**
-- **Mobile:The app focuses on fitness tracking which could be done using a mobile device or a wearable due to the portability constraints associated with fitness**
-- **Story: The app would encourage fitness amongst friends and peer in a closed social circle. The users would be motivated by friends to up their fitness and take part in challenges to earn their place in the leaderboard.**
-- **Market: The app can be used by anyone interested in fitness and well being.**
-- **Habit: It forms an habit around fitness and would be used by user daily to track and improve fitness.**
-- **Scope: There are challenges as we would be using GPS like features to track the walks/runs, also we would be building REST API's whice time frame.**
+- **Category:** 
+Fitness Social media mobile application
+- **Mobile:**
+The app focuses on fitness tracking which could be done using a mobile device or a wearable due to the portability constraints associated with fitness.
+- **Story:**
+The app would encourage fitness amongst friends and peer in a closed social circle. The users would be motivated by friends to up their fitness and take part in challenges to earn their place in the leaderboard.
+- **Market:**
+The app can be used by anyone interested in fitness and well being.
+- **Habit:**
+It forms an habit around fitness and would be used by user daily to track and improve fitness.
+- **Scope:**
+There are challenges as we would be using GPS like features to track the walks/runs, also we would be building REST API's whice time frame.
 
 ## Product Spec
 
@@ -32,24 +34,37 @@ A reward system like a leaderboard, scoreboard, streak, etc.]
 
 **Required Features**
 
-* [Tracking your run]
-* [workout suggestion]
-* [Workout Dashboard]
-* [Streak]
+* Log In/Sign up
+* Tracking your run/workout
+* Workout suggestion
+* Workout Dashboard
+* Streaks
+* Ability to add friends
+* Mainting Profile
 
 **Stretch Features**
 
-* [Sharing images of workout]
-* []
+* Sharing image and updates amongst friends
+* Calorie tracker for food
+* Interacting with users
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Log In/Sign up
+  - Allow signup using google ID
+  - Database design
+  - Rest endpoint to create the entry in DB
+- Main Screen
+  - Workout
+    - UI to start and stop runs
+    - Use the GPS to track the run
+    - Rest API's to save the data to the associated user
+  - Followers
+    - Ability to add users as friends and see the friends stat 
+  - Dashboard
+    - Ability to see your stats  
+  - Profile
+    - Ability to update the profile details with workout preferences and other details.  
 
 ### 3. Navigation
 
