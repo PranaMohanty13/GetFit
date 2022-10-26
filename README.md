@@ -32,12 +32,15 @@ A reward system like a leaderboard, scoreboard, streak, etc.]
 
 **Required Features**
 
-* [Tracking your run, workout suggestion, Workout Dashboard, Streak]
-* ...
+* [Tracking your run]
+* [workout suggestion]
+* [Workout Dashboard]
+* [Streak]
 
 **Stretch Features**
 
-* [Sharing images of workout, ]
+* [Sharing images of workout]
+* []
 
 ### 2. Screen Archetypes
 
