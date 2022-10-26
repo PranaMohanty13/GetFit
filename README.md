@@ -86,7 +86,7 @@ There are challenges as we would be using GPS like features to track the walks/r
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="(https://github.com/PranaMohanty13/Group21_Codepath/blob/main/copy.jpg)" width=600>
+<img src="https://github.com/PranaMohanty13/Group21_Codepath/blob/main/copy.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
