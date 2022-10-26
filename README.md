@@ -68,26 +68,28 @@ There are challenges as we would be using GPS like features to track the walks/r
 
 ### 3. Navigation
 
+Login screen to Main Screen
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Workout - Has workout details, like start runs, etc
+* Followers - Has friends list and ability to add friends
+* Dashboard - Has user stat/workout details
+* Profile - User profile screen
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Login Screen
+  - Navigate to Main screen on successful login
+- Main Screen
+  - Can Navigate between tabs (Workout, Followers, Dashboard, and Profile)
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://github.com/PranaMohanty13/Group21_Codepath/blob/main/copy.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
+
+# Activity 1:
+https://hackmd.io/s/H1-2wfIEs
