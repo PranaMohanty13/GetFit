@@ -85,7 +85,7 @@ Login screen to Main Screen
 
 ## Wireframes
 
-<img src="https://github.com/PranaMohanty13/Group21_Codepath/blob/main/copy.jpg" width=600>
+<img src="https://github.com/PranaMohanty13/GetFit/blob/main/GetFit-1st%20Walkthrough.gif">
 
 ### [BONUS] Digital Wireframes & Mockups
 
