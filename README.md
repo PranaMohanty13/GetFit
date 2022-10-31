@@ -34,13 +34,13 @@ There are challenges as we would be using GPS like features to track the walks/r
 
 **Required Features**
 
-* Log In/Sign up
-* Tracking your run/workout
-* Workout suggestion
-* Workout Dashboard
-* Streaks
-* Ability to add friends
-* Mainting Profile
+[X] Log In/Sign up 
+[X] Tracking your run/workout
+[X] Workout suggestion
+[] Workout Dashboard
+[] Streaks
+[] Ability to add friends
+[] Mainting Profile
 
 **Stretch Features**
 
